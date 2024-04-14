@@ -68,12 +68,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     </ul>
 
 
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF4500?style=for-the-badge&logo=suricata&logoColor=white)"/> 
-</div>
-
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF4500?style=for-the-badge&logo=suricata&logoColor=white)"/> <img src="https://img.shields.io/badge/-Microsoft_sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
 
 
