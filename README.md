@@ -83,10 +83,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
+<h1>Projects</h1>
 
-
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-Projects
 
     Detection Lab
     SOC Automation Project
