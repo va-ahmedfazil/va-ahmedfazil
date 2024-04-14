@@ -43,7 +43,13 @@ SIEM
 
 
 
-Certifications
+<h1>Certifications</h1>
+
+
+
+
+
+
 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 Projects
