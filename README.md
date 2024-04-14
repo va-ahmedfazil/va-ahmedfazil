@@ -29,7 +29,7 @@ Tools
 
 Network
 <div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF4500?style=for-the-badge&logo=suricata&logoColor=white)"/> 
 </div>
 
 Endpoint
