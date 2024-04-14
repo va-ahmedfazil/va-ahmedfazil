@@ -77,6 +77,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h1>Certifications</h1>
 
 
+<img src="https://img.shields.io/badge/-CompTIA_Security+-002B5C?style=for-the-badge&logo=compTIA&logoColor=white"/>
+
+
 
 
 
