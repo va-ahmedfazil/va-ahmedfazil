@@ -13,15 +13,38 @@ Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC)
 
 
---------------------------------------------------------------------------
-Skill 	                      |                      Associated Project
---------------------------------------------------------------------------
-SIEM Implementation and Log Analysis           |      	<a href="https://google.com">Detection Lab</a>
-Network Traffic Monitoring and Attack Detection|    	<a href="https://google.com">Detection Lab</a>
-Security Automation with Shuffle SOAR 	       |       <a href="https://google.com"> SOC Automation Lab</a>
-Incident Response Planning and Execution       |        <a href="https://google.com">SOC Automation Lab</a>
-Case Management with TheHive 	               |       <a href="https://google.com"> SOC Automation Lab</a>
-Scripting and Automation for Threat Mitigation |       <a href="https://google.com"> SOC Automation Lab</a>
+  <h2>Skills Learned</h2>
+    <table>
+        <tr>
+            <th>Skill</th>
+            <th>Associated Project</th>
+        </tr>
+        <tr>
+            <td>SIEM Implementation and Log Analysis</td>
+            <td>Detection Lab Network Traffic Monitoring and Attack Detection</td>
+        </tr>
+        <tr>
+            <td>Detection Lab Security Automation with Shuffle SOAR</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Incident Response Planning and Execution</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Case Management with TheHive</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+        <tr>
+            <td>Scripting and Automation for Threat Mitigation</td>
+            <td>SOC Automation Lab</td>
+        </tr>
+    </table>
+
+
+
+
+<a href="https://google.com"> SOC Automation Lab</a>
 
 
 Tools
