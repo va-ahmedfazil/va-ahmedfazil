@@ -43,18 +43,34 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://google.com"> SOC Automation Lab</a>
 
+<h1>Tools</h1>
 
-Tools
+ <ul>
+        <li>Network:
+            <ul>
+                <li>Wireshark</li>
+                <li>Suricata</li>
+            </ul>
+        </li>
+        <li>Endpoint:
+            <ul>
+                <li>K7 EPP</li>
+                <li>Microsoft Defender</li>
+            </ul>
+        </li>
+        <li>SIEM:
+            <ul>
+                <li>Wazuh</li>
+                <li>Elastic stack</li>
+                <li>Splunk</li>
+            </ul>
+        </li>
+    </ul>
 
 
-Network
-<div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/-Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=white"/> <img src="https://img.shields.io/badge/-Suricata-FF4500?style=for-the-badge&logo=suricata&logoColor=white)"/> 
 </div>
 
-Endpoint
-
-SIEM
 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white"/>
