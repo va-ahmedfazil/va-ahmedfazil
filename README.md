@@ -22,15 +22,27 @@ Security Automation with Shuffle SOAR 	       |       <a href="https://google.co
 Incident Response Planning and Execution       |        <a href="https://google.com">SOC Automation Lab</a>
 Case Management with TheHive 	               |       <a href="https://google.com"> SOC Automation Lab</a>
 Scripting and Automation for Threat Mitigation |       <a href="https://google.com"> SOC Automation Lab</a>
+
+
 Tools
 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 Network
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+</div>
+
 Endpoint
+
 SIEM
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
+
+
+
+
 Certifications
 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
